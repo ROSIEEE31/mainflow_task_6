@@ -23,7 +23,7 @@ A simple Java application built using NetBeans to *update* and *search* product 
 
 ### 1. Database Setup (in MySQL Workbench)
 
-```sql
+
 CREATE DATABASE BH;
 USE BH;
 
@@ -33,7 +33,7 @@ CREATE TABLE products (
   category VARCHAR(100)
 );
 
-2. Project Setup (in NetBeans)
+##2. Project Setup (in NetBeans)
 
 Create a Java Application Project
 
